@@ -1,5 +1,6 @@
 JAMURUU RESOLUSI
 
-- Bisa mengoperasikan GIT untuk membantu pekerjaan dalam tim.
 - Belajar bahasa pemograman lain seperti Java, C++, Kotlin dll.
 - Bisa belajar lebih dalam mengenai database.
+- Bisa membuat sebuah project bersama tim
+- Mempunyai target belajar pada tahun 2021.
