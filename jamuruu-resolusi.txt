@@ -4,3 +4,4 @@ JAMURUU RESOLUSI
 - Bisa belajar lebih dalam mengenai database.
 - Bisa membuat sebuah project bersama tim
 - Mempunyai target belajar pada tahun 2021.
+- Belajar Git
