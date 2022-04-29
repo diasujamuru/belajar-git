@@ -1,0 +1,4 @@
+PROGRESS BELAJAR GIT & GITHUB
+
+- Mengenal instilah GIT
+- Belajar menggunakan GitHub
